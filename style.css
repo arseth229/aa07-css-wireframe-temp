@@ -1,3 +1,26 @@
 .upper__left {
+    width: 20px;
+    height: 20px;
+}
+
+.upper__right{
+    float: right;
+}
+
+.sign-in {
+    font-size: small;
+    color:forestgreen;
+    text-decoration: none;
+}
+
+.get-started {
+    font-size: small;
+    text-decoration: none;
+    color:forestgreen;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 1px solid forestgreen;
     
 }
+
+
